@@ -1,4 +1,4 @@
-# Space Invaders
+# Space Invaders using TM4C123 LaunchPad
 
 ![97094E6E-62A3-4433-9BED-4C8DE34E05AA](https://user-images.githubusercontent.com/55927496/90305131-0afac280-de74-11ea-81b1-4a6db6f6c16c.JPG)
 
